@@ -1,0 +1,14 @@
+C:\Users\12\source\repos\WS6\WS6\obj\Debug\net7.0\WS6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12\source\repos\WS6\WS6\obj\Debug\net7.0\WS6.AssemblyInfoInputs.cache
+C:\Users\12\source\repos\WS6\WS6\obj\Debug\net7.0\WS6.AssemblyInfo.cs
+C:\Users\12\source\repos\WS6\WS6\obj\Debug\net7.0\WS6.csproj.CoreCompileInputs.cache
+C:\Users\12\source\repos\WS6\WS6\bin\Debug\net7.0\WS6.exe
+C:\Users\12\source\repos\WS6\WS6\bin\Debug\net7.0\WS6.deps.json
+C:\Users\12\source\repos\WS6\WS6\bin\Debug\net7.0\WS6.runtimeconfig.json
+C:\Users\12\source\repos\WS6\WS6\bin\Debug\net7.0\WS6.dll
+C:\Users\12\source\repos\WS6\WS6\bin\Debug\net7.0\WS6.pdb
+C:\Users\12\source\repos\WS6\WS6\obj\Debug\net7.0\WS6.dll
+C:\Users\12\source\repos\WS6\WS6\obj\Debug\net7.0\refint\WS6.dll
+C:\Users\12\source\repos\WS6\WS6\obj\Debug\net7.0\WS6.pdb
+C:\Users\12\source\repos\WS6\WS6\obj\Debug\net7.0\WS6.genruntimeconfig.cache
+C:\Users\12\source\repos\WS6\WS6\obj\Debug\net7.0\ref\WS6.dll
